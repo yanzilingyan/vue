@@ -11,7 +11,7 @@ It must be used in the environment of vue2.0 or more
 You need to use pagination in your vue app's main file or the container you need to use:
 ``` bash
 import vPagination from 'pagination.vue'
-Vue.use(Eagle)
+Vue.use(vPagination)
 ``` 
 ## Basic idea
 A very basic File Component for pagination would look like this:
